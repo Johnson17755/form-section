@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-size: 14px;
+    font-family: "moderat", "Inter", "sans-serif";
+    font-weight: 400;
+    color: #333;
+    background-color: whitesmoke;
+}
+.paragraph{
+    text-align:center;
+    font-size: 30px;
+    text-shadow:3px 5px 10px grey;  
+}
+.log{
+    border: 1px solid black;
+    font-size: 18px;
+    width: 140px;
+    float: right;
+    background-color: #ff9b00;
+    margin: 30px;
+    border-radius: 3px;
+    padding: 7px;
+}
+.formSection{
+    margin: 100px 150px;
+    border: 180px solid white;
+    height: 300px;
+    width: 20px;
+    border-radius: 10px;
+    background-color: white;
+}
+.write{
+    position: absolute;
+    margin-top: -150px;
+    margin-left: -90px;
+    font-size: 25px;
+    text-shadow: 2px 3px 3px gray;
+}
+form{
+    margin-top: -130px;
+    margin-left: -150px;
+    border-color: grey;   
+}
+input{
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    border-color: gray;
+}
+select{
+    cursor: pointer;
+    height:50px;
+    width: 300px;
+    margin-left: 10px;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+    box-shadow: 2px 3px 3px gray;
+}
+button{
+    justify-items: center;
+    border-radius: 5px;
+    height: 50px;
+    width: 300px;
+    cursor: pointer;
+    background-color: #ff9b00;
+    margin-left: 10px;
+}
+.under{
+    font-size: 12px;
+    display:inline-block;
+    color: black;
+    padding-top: 15px;
+    width: 200px;
+    margin-left: -140px;
+}
+.rightbar{
+    position: absolute;
+    margin-top: -520px;
+    right: 470px;
+}
+.policy{
+    text-align: end;
+    padding: 10px;
+}
